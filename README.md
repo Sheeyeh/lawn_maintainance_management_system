@@ -6,7 +6,7 @@ Lawn Maintenance Management System is a backend-powered service platform that au
 ### Smart Fertilizer Monitoring
 Each subscribed user receives a specialized sprinkler device pre-loaded with our custom fertilizer. This device includes a built-in sensor that monitors the fertilizer concentration. When the concentration drops below a safe threshold, the sensor sends an alert signal to our backend server.
 
-#### Automated Refill Orders
+### Automated Refill Orders
 Upon receiving a low-fertilizer alert, the system automatically creates a refill order — no user action required. This order is then available for workers to claim and fulfill by refilling the sprinkler with fertilizer.
 ### Two-Sided Platform (User & Worker)
 * 	User Side: Users can place lawn care service orders, view their order history, and rate workers after job completion.  
