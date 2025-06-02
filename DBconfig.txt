@@ -1,0 +1,10 @@
+{
+    "Rubbish123": {
+        "host": "121.40.59.97",
+        "port": 3306,
+        "database": "RB",
+        "user": "root",
+        "password": "Rubbish123"
+    }
+}
+
